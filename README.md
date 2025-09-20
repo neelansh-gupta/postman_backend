@@ -12,7 +12,7 @@ A Go API that integrates with the OMDb API to provide movie information, TV epis
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd go-api
+cd postman_backend
 ```
 
 2. Install dependencies:
